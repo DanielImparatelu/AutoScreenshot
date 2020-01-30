@@ -22,7 +22,7 @@ namespace AutoScreenshot
     /*
      * this code was decompiled from a .exe file using dnSpy
      * because I lost the original source code due to clicnking buttons without thinking
-     * It is working, but missing some design changes added later
+     * It is working, but missing some design changes added later 
      */
     public partial class Form1 : Form
     {
